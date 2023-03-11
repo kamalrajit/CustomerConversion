@@ -5,11 +5,11 @@
 
 ## Approach:
 
--> CLeaning the Data
--> Exploratory Data Analysis
--> Encoding
--> Imputation
--> Splitting
--> Scaling
--> Balancing the Data (SMOTE Techniques)
--> Model Building
+-> CLeaning the Data ( Identifying and Removing Outliers, Dropping Duplicates, Checking Null Values)
+-> Exploratory Data Analysis ( Plots for Features and Target & Feature Vs Target)
+-> Encoding ( Encoding Categorical Data )
+-> Imputation ( Imputing missing values using KNNImputer)
+-> Splitting ( Splitting the data into train test and test set)
+-> Scaling ( Scaling the data using StandardScaler)
+-> Balancing the Data (using SMOTE Techniques to balance the data)
+-> Model Building ( ML algorithms like Logistic Regression, Random Forest, XGBoost, CatBoost, LightGBM, KNN, SVM are used) 
